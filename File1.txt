@@ -13,4 +13,8 @@ Third change from branch2
 
 first change in branch3 three
 
+
+merge conflict demo2
+
 merge conflict demo1
+
